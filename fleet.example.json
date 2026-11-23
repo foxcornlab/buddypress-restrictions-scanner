@@ -1,0 +1,1 @@
+[{"host":"community-site-1","url":"https://example.com"},{"host":"community-site-2","version":"1.5.4"},{"host":"local-wordpress","wp_root":"/var/www/html"},{"host":"plugin-only-site","pmpro":false,"version":"1.5.4"}]
